@@ -1,2 +1,1 @@
-# SWPMS
-grp project
+# sw-project-mgt-system
